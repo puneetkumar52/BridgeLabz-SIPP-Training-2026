@@ -1,0 +1,25 @@
+opps mai non static var 
+encapsulation----private variable bana.. then.. create methods.. non static methods..
+
+
+
+object class-- detailed study 
+# abstraction 
+interfarce          abstract class
+
+
+IO operations ---> databse crud   file system    cloud aws    ------
+
+
+
+interface-- IO operation{
+    void read(string filepath);
+    void write (string filepath);
+}
+
+class DBO implements IO operation {
+
+}
+
+abstract class: use when the code is common to all classes and common use
+its inherits by child class 
